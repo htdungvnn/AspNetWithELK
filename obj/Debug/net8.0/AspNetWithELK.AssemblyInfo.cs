@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AspNetWithELK")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f7c6c8462393e437adff32e06618b066fff4bd60")]
 [assembly: System.Reflection.AssemblyProductAttribute("AspNetWithELK")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AspNetWithELK")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
