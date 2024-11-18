@@ -1,0 +1,6 @@
+@AspNetWithELK_HostAddress = http://localhost:5001
+
+GET {{AspNetWithELK_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
